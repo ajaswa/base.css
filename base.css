@@ -42,6 +42,11 @@ input[type=number]::-webkit-outer-spin-button {
     margin: 0;
 }
 
+* {
+  /* most background images have no-repeat on them, no need to set it everywhere? */
+  background-repeat: no-repeat;
+}
+
 
 a:link {
 
@@ -49,10 +54,10 @@ a:link {
 a:visited {
 
 }
-a:hover   {
+a:hover {
 
 }
-a:active  {
+a:active {
 
 }
 
