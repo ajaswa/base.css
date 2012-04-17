@@ -19,12 +19,12 @@ time, mark, audio, video {
   background:transparent;
 }
 html { 
-  font-size: 100%; 
-  overflow-y: scroll; 
-  -webkit-text-size-adjust: 100%; 
-  -ms-text-size-adjust: 100%; 
+  font-size: 100%;
+  overflow-y: scroll;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
 }
-body{
+body {
   /* based on YUI */
   font:13px/1.231 "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
   *font-size:small;
@@ -47,7 +47,6 @@ input[type=number]::-webkit-outer-spin-button {
   background-repeat: no-repeat;
 }
 
-
 a:link {
 
 }
@@ -60,4 +59,3 @@ a:hover {
 a:active {
 
 }
-
